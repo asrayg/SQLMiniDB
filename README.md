@@ -1,6 +1,6 @@
 # SQLMiniDB
 
-SQLMiniDB is a lightweight SQL database engine implemented in C++. It supports basic SQL commands such as SELECT, INSERT, UPDATE, DELETE, CREATE TABLE, DROP TABLE, ALTER TABLE, and TRUNCATE TABLE. This project serves as an educational tool to understand the inner workings of a database engine.
+SQLMiniDB is a lightweight SQL database engine implemented in C++. It supports basic SQL commands such as SELECT, INSERT, UPDATE, DELETE, CREATE TABLE, DROP TABLE, ALTER TABLE, and TRUNCATE TABLE. I made this project as an educational tool to understand the inner workings of a database engine.
 
 ## Features
 
